@@ -1,0 +1,88 @@
+.google{
+  margin-top: 50px;
+  margin-left: 350px;
+  margin-bottom: 0px;
+}
+.searchbox{
+  margin-left: 300px;
+
+}
+.searchbox input{
+  width: 400px;
+  height: 30px;
+ 
+}
+.google img{
+  width: 300px;
+}
+.button{
+  margin-left: 400px;
+  margin-top: 30px;
+}
+.yt{
+  margin-left: 320px;
+  margin-top: 15px;
+  width: 40px;
+  height: 40px;
+  padding: 10px;
+  border-radius: 40px;
+  display: inline-block;
+}
+.amazon{
+  margin-left: 420px;
+  margin-top: -60px;
+  width: 40px;
+  height: 40px;
+  padding: 10px;
+  border-radius: 40px;
+
+}
+.alx{
+  margin-left: 520px;
+  margin-top: -60px;
+  width: 40px;
+  height: 40px;
+  padding: 10px;
+  border-radius: 40px;
+}
+.fcc{
+  margin-left: 620px;
+  margin-top: -60px;
+  width: 40px;
+  height: 40px;
+  padding: 10px;
+  border-radius: 40px;
+}
+.micro{
+  margin-left: 320px;
+  margin-top: 35px;
+  width: 40px;
+  height: 40px;
+  padding: 10px;
+  border-radius: 40px;
+  
+}
+
+.alx:hover{
+  background-color: lightgray;
+}
+.amazon:hover{
+  background-color: lightgray;
+}
+.micro:hover{
+  background-color: lightgray;
+}
+.yt:hover{
+  background-color: lightgray;
+}
+.fcc:hover{
+  background-color: lightgray;
+}
+.searchbox input{
+  border-radius: 50px;
+
+}
+::placeholder{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  
+}
